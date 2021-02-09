@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.PriorityQueue;
-import javafx.application.Platform;
 
 /**
  * @author Alexander Beers

@@ -1,19 +1,14 @@
-import java.util.concurrent.TimeUnit;
-import javafx.animation.FillTransition;
-import javafx.animation.PauseTransition;
-import javafx.animation.TranslateTransition;
+
 import javafx.application.Application;
-import javafx.concurrent.Task;
 import javafx.geometry.Rectangle2D;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
-import javafx.scene.input.KeyCode;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Screen;
 import javafx.stage.Stage;
-import javafx.util.Duration;
+
 
 /**
  * @author Alexander Beers
