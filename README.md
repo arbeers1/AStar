@@ -1,6 +1,8 @@
 # AStar
 Name: A* Pathfinding Visualizer
+
 Date: Feb 7th, 2021
+
 Author: Alexander Beers
 
 Description: A program that visualizes the A* pathfinding algorithm.
