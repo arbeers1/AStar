@@ -11,3 +11,5 @@ Blue - Pathable/Unvisited
 Red - Visited
 Grey - Wall
 Green - Final Path
+
+Demo: https://youtu.be/gWwALdog1SE
